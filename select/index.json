@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "踊り子 - odoriko",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-03-10T03:54:14.795915Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "踊り子",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_踊り子_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "踊り子",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_踊り子_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "踊り子",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_踊り子_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "踊り子",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/04_踊り子_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "踊り子 - odoriko",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/05_踊り子_-_odoriko_Vaundy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "踊り子",
+      "artist": "Kozo Murashita",
+      "has_synced": true,
+      "path": "select/06_踊り子_Kozo_Murashita.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "踊り子 - odoriko",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/07_踊り子_-_odoriko_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "踊り子",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/08_踊り子_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "踊り子",
+      "artist": "Kozo Murashita",
+      "has_synced": true,
+      "path": "select/09_踊り子_Kozo_Murashita.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "01. 踊り子",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/10_01._踊り子_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "踊り子 (Paused)",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/11_踊り子_(Paused)_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "踊り子（Vaundy）／ダズビー COVER",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/12_踊り子(Vaundy)_ダズビー_COVER_DAZBEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊り子",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_踊り子_Vaundy.txt"
+    }
+  ]
+}
